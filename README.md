@@ -27,3 +27,7 @@ funcflow-1681376169029-Wx4f
 
 /src/  # 源目录
 /src/xxx.spec.js  # vitest的测试文件
+
+
+#### 如何使用见
+https://github.com/liaodalin19903/name-uuid/blob/main/src/index.spec.ts 
