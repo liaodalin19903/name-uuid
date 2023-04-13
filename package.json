@@ -1,0 +1,18 @@
+{
+  "name": "classify-uuid",
+  "version": "1.0.0",
+  "description": "1.实现基于uuidjs/uuid/v9.0.0: https://github.com/uuidjs/uuid/releases/tag/v9.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vitest": "^0.30.1"
+  }
+}
